@@ -1,3 +1,7 @@
+/**
+ * @param {string} s
+ * @return {string}
+ */
 var longestPalindrome = function(s) {
     let start = 0;
     let low, high;
@@ -18,6 +22,5 @@ var longestPalindrome = function(s) {
 
     }
     return s.substring(start, start + maxLength)
-
     
 };

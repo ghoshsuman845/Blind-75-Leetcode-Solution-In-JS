@@ -1,5 +1,5 @@
 # Blind-75 Leetcode Solution In JS 🔥
-This repo contains solution for Blind 74 Leetcode questions solved using Javascript.
+This repo contains solution for [Blind 75 Leetcode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) questions solved using Javascript.
 
 
 | Problem | Solution | Category | Difficulty |
@@ -14,4 +14,15 @@ This repo contains solution for Blind 74 Leetcode questions solved using Javascr
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](./Arrays/33_search_in_rotated_sorted_array.js) | `Array` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution](./Arrays/15_3Sum.js) | `Array` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
 | [Container With Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](./Arrays/11_container_with_most_water.js) | `Array` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+
+| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./Strings/3_longest_substring_with_repeating_character.js) | `String` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./Strings/424_longest_repeating_character_replacement.js) | `String` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](./Strings/76_minimum_window_substring.js) | `String` | <img src="https://img.shields.io/badge/Hard-F40D12?style=for-the-badge" alt="Hard" /> |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](./Strings/242_valid_anagram.js) | `String` | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](./Strings/49_group_anagrams.js) | `String` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](./Strings/20_valid_parentheses.js) | `String` | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./Strings//125_valid_palindrome.js) | `String` | <img src="https://img.shields.io/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
+| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./Strings/5_longest_palandromic_substring.js) | `String` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./Strings/647_palindromic_substrings.js) | `String` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+
 
