@@ -23,5 +23,9 @@ This repo contains solution for [Blind 75 Leetcode](https://leetcode.com/discuss
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](./Strings//125_valid_palindrome.js) | `String` | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./Strings/5_longest_palandromic_substring.js) | `String` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./Strings/647_palindromic_substrings.js) | `String` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](./Matrix/54_spiral_matrix.js) | `Matrix` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Set Matrix zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./Matrix/73_set_matrix_zeroes.js) | `Matrix` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Matrix/48_rotate_image.js) | `Matrix` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./Matrix/79_word_search.js) | `Matrix` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
 
 
