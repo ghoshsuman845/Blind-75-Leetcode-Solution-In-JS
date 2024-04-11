@@ -27,5 +27,10 @@ This repo contains solution for [Blind 75 Leetcode](https://leetcode.com/discuss
 | [Set Matrix zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./Matrix/73_set_matrix_zeroes.js) | `Matrix` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](./Matrix/48_rotate_image.js) | `Matrix` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution](./Matrix/79_word_search.js) | `Matrix` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Solution](./Binary/190_reverse_bits.js) | `Binary` | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
+| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution](./Binary/191_number_of_1_bits.js) | `Binary` | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
+| [Missing Numbers](https://leetcode.com/problems/missing-numbers/) | [Solution](./Binary/268_missing_number.js) | `Binary` | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
+| [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Binary/338_counting_bits.js) | `Binary` | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
+| [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Binary/371_sum_of_two_integers.js) | `Binary` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
 
 
