@@ -32,5 +32,9 @@ This repo contains solution for [Blind 75 Leetcode](https://leetcode.com/discuss
 | [Missing Numbers](https://leetcode.com/problems/missing-numbers/) | [Solution](./Binary/268_missing_number.js) | `Binary` | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Solution](./Binary/338_counting_bits.js) | `Binary` | <img src="https://img.shields.io/badge/Easy-brightgreen?style=for-the-badge" alt="Easy" /> |
 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Solution](./Binary/371_sum_of_two_integers.js) | `Binary` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](./Heap/347_top_k_frequent_elements.js) | `Heap` | <img src="https://img.shields.io/badge/Medium-FECC00?style=for-the-badge" alt="Medium" /> |
+| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](./Heap/23_merge_k_sorted_lists.js) | `Heap` | <img src="https://img.shields.io/badge/Hard-F40D12?style=for-the-badge" alt="Hard" /> |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./Heap/295_find_median_from_data_streams.js) | `Heap` | <img src="https://img.shields.io/badge/Hard-F40D12?style=for-the-badge" alt="Hard" /> |
+
 
 
